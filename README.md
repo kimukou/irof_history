@@ -24,9 +24,11 @@ irof先生は日本中を旅する勉強会旅職人です。
 --------
 一度Fork済みの場合は  
 
+```
 git remote add irof git://github.com/irof/irof_history.git 
 git fetch irof 
 git rebase irof/master
+```
 
 でFork済みのレポジトリにマージできます (@sinsoku_listy さん御教授感謝！
 
